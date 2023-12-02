@@ -966,7 +966,7 @@ game.game:GetActivePlayer():GetOwner():SetWheelsProtected(xx) xx = truefalse
 
 game.game:GetActivePlayer():GetOwner():IsWheelsProtected( ? )
 
-game.game:GetActivePlayer():GetOwner():OpenSeatWindowOpenSeatWindow(1,xx,0) 1,2,3 or 4 xx = truefalse
+game.game:GetActivePlayer():GetOwner():OpenSeatWindow(1,xx,0) 1,2,3 or 4 xx = truefalse
 
 game.game:GetActivePlayer():GetOwner():IsSeatWindowOpen( ? )
 
